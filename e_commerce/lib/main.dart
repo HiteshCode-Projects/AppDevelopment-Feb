@@ -60,15 +60,9 @@ class ProductApp extends StatelessWidget {
 
             ],
 
-
-
-
-
          ),
 
          ),
-        
-
 
       ),
 
@@ -77,3 +71,4 @@ class ProductApp extends StatelessWidget {
     );
   }
 }
+
