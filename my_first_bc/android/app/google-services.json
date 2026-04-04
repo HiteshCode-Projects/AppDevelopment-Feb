@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382798293847",
+    "project_id": "febbatch-9354b",
+    "storage_bucket": "febbatch-9354b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382798293847:android:67fb79c0edeabfb8726c12",
+        "android_client_info": {
+          "package_name": "com.example.my_first_bc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE7AybjY7RWirbU4R5JE7btPjSdhpWtFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
